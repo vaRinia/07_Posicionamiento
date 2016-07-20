@@ -1,0 +1,35 @@
+body {
+	margin:0px;
+	padding: 0px;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	position:absolute;
+
+}
+
+.rojo {
+	background-color: #ee3e64;
+	left:0px;
+	top:0px;
+	}
+
+.azul {
+	background-color: #43817C;
+	right:0px;
+	top:0px;
+	}
+
+.verde {
+	background-color: #b7d84b;
+	left:0px;
+	bottom:0px;
+	}
+
+.aqua {
+	background-color: #b7d84b;
+	right:0px;
+	bottom:0px;
+	}
